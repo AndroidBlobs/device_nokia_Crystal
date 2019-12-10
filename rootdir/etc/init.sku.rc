@@ -1,0 +1,17 @@
+on fs
+    setprop ro.product.board SDM636
+    setprop ro.product.odm.brand Nokia
+    setprop ro.product.first_api_level 27
+    setprop ro.product.vendor.brand Nokia
+    setprop vendor.vidc.enc.disable.pq true
+    setprop ro.product.odm.device CTL_sprout
+    setprop ro.product.odm.model "Nokia 7.1"
+    setprop ro.product.odm.name Crystal_00WW
+    setprop ro.product.vendor.device CTL_sprout
+    setprop ro.product.vendor.model "Nokia 7.1"
+    setprop ro.product.vendor.name Crystal_00WW
+    setprop ro.product.odm.manufacturer "HMD Global"
+    setprop ro.product.vendor.manufacturer "HMD Global"
+on fs
+	setprop ro.vendor.build.fingerprint Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_08B:user/release-keys
+	setprop ro.odm.build.fingerprint Nokia/Crystal_00WW/CTL_sprout:10/QKQ1.190828.002/00WW_4_08B:user/release-keys
